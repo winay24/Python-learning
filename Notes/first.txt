@@ -1,1 +1,25 @@
 Python is interpeting language so no need to debug sorce code directly we can run is CMD by setting and installing python path.
+c(function oriented) + c++(oops) + scripting(direct execution)
+33 keywords
+14 datatypes
+
+advantages:
+simple
+portable -- migration
+platform independent
+entensive library -- big
+dynamically typed -- no datatype declaration
+entensible --- can use other languages in python app
+embbeded  -- can use python in other lan applications
+
+disadvantages:
+slow compared to other
+security
+
+flavours:
+cpython 
+jpython
+anakonda python
+
+python3 dont support python 2
+

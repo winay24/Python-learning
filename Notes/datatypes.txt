@@ -1,0 +1,22 @@
+int float bool str
+list tuple set frozenset dict
+bytes bytearray range none
+----------------------------------
+type() --> datatype of input
+id()  --> address of variable
+print() --> display input
+input() --> to get runtime input
+------------------------------------
+base conversion:
+bin()       -- 0b110(0's and 1's)
+oct()       -- 0o76 (0 to 7)
+hex()       -- oxB1(0 to F)
+------------------------------------
+fundamental datatype vs immutablility
+
+a = 10
+b = 10 c= 10
+here object creation takes place only one time remaining all will points to same this will avoid duplicate and save memory and perf
+one challange?
+want if b changed to 11 all a b c values changes to 11?
+no , then it will go for new object creation this is called immutability (non changable)
