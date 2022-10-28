@@ -6,6 +6,6 @@ while for break continue return
 in yield raise assert import as from class def
 try except finally assert  pass global nonlocal lambda del with
 ---------------------------------------------------------------
-import keywoed
+import keyword
 keyword.kwlist
 these cmds gives list of keywords
