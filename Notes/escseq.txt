@@ -1,0 +1,14 @@
+escape sequences
+\n  -- new line
+\t  -- tab
+\b  -- backspace
+\'  -- to print ' symbol
+\'' -- to print " symbol
+\\ ---  to print \ symbol
+\r  -- carriage return
+
+commenting ways:
+one way using #:
+
+# for single line comment
+no multiple line comment not available
