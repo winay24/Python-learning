@@ -1,0 +1,16 @@
+14 data-types:
+
+int           
+float
+complex
+str
+bool
+list[]
+tuple()
+set{}
+frozenset{}
+dict{key:value}
+range(3forms)
+bytes[]
+bytearray[mutable bytes]
+None

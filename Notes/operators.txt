@@ -1,0 +1,12 @@
+Arthematic operators
+Comparison operators
+equality operators
+logical operators
+bitwise operators
+shift operators
+assignment opersator
+ternary operators
+special operators --- identity operators , membership operators
+operator precedence
+maths func using math module
+
