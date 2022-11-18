@@ -1,0 +1,37 @@
+mathematical functions from math module:
+1. it is *.py file with multiple functions and it's definitions that function we can use by importing that module
+2. this is helpful to code reusability by calling from multiple files and users also
+3. 
+
+
+
+
+---------------------------------------test.py
+example: 
+import dmath
+dmath.add(10,20)
+---------------------------------------test1.py
+import dmath
+dmath.mul(10,20)
+
+--------------------dmath.py file
+def add(a,b) :
+	print("adding : ",a+b)
+def mul(a,b) :
+	print("multiplying : ",a*b)
+----------------------------------------------import *
+from math1 import *
+from math2 import *  #python consider most recent one that is math2 so uses fun defined in math2 if same fun exist in both math1 and math2
+
+important function present in math module:|    variables
+sqrt()					  |    pie e inf nan
+floor()
+ceil()
+pow()
+gcd()
+sin()
+cos()
+-----------------------------------------example for math import area of circle
+from math import *
+r = int(input("enter radius :"))
+print("area of circle : ",pi*pow(r,2))

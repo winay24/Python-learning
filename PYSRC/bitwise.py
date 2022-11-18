@@ -25,8 +25,8 @@ print("~ : ",~-10)
 
 #--------------------------shift operators
 # left and right 
-# 10<<2 = 40 ;   10 in binary 1010 => 2times left == 101000 == 40 left means 0 at end
-# 10>>2 =    ;    10 == 0000....1010  ==> 000000..... 10  == right depends on sign bit
+# 10<<2 = 40 ; 10* 2power2 =40; 10 in binary 1010 => 2times left == 101000 == 40 left means 0 at end
+# 10>>2 =    ;  10/2poer2 = 2 ' 10 == 0000....1010  ==> 000000..... 10  == right depends on sign bit
 #-----------------------------------------------------------------------------------boolean with bitwise
 print("printing boolean data : ")
 print(True & False)

@@ -11,3 +11,10 @@ x = int(input("enter integer1 : "))
 y = int(input("enter integer2 : "))
 max = x if x>y else y
 print("max value is : ",max)
+
+#------------------------------nested ternary
+a1 = int(input("enter a1 : "))
+a2 = int(input("enter a2 : "))
+a3 = int(input("enter a3 : "))
+min = a1 if a1<a2 and a1<a3 else a2 if a2<a3 else a3
+print("min out of 3 numbers : ",min)
