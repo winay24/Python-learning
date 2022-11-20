@@ -26,4 +26,4 @@ else:
     print("a less than equal 0")
 c=30
 d=40
-print(a<b<c<ds)
+print(a<b<c<d)
